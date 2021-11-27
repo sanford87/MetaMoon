@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6136328D-4151-FDCA-3D96-E3A53DC20791}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		}
+	]
+}
