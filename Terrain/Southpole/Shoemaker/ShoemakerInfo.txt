@@ -1,11 +1,11 @@
-Screen Pixels: 939 x 939
-Screen pixel size: 21.03 m
+Screen Pixels: 3999 x 3999
+Screen pixel size: 4.93 m
 Display Datum: WORLD GEODETIC SYSTEM 1984
 Map Projection parameters Polar Stereographic (ellipse)  Datum=WGS84
 LatCent: -90 LongCent: -117  false_east (m): 0  false_north (m):0
 k0: 1
 Phi2: 0.144318
-23.5% of points on map
+100.0% of points on map
 --------------------------------
 DEM=Shoemaker_final_adj_5mpp_surf
 DEM size: 4000x4000
@@ -38,3 +38,9 @@ Primary:   Polar Stereographic (ellipse)  Datum=WGS84
 ------------------------------------
 DEM bounding box geographic: x=-50.724034 to -56.674515  y=-89.363158 to -89.125687
 DEM bounding box Proj: x=66000 to 85995  y=29005 to 49000
+
+
+4.93mX4000
+
+19720m
+19.72km
