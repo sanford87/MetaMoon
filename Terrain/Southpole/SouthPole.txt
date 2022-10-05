@@ -1,0 +1,20 @@
+Minimum Latitude-88.56358884
+Maximum Latitude-88.33003614
+Minimum Longitude141.2910715
+Maximum Longitude309.96354392
+Lines (pixels)16874
+Samples (pixels)16264
+Bit Type32
+Quad NameLQ-30
+Bands1
+Pixel Resolution (meters/pixel)4
+Scale (pixels/degree)7580.8376
+Map Projection Name Polar Stereographic
+Latitude Type Planetocentric
+Longitude Direction Positive East
+Longitude Domain 0 to 360
+
+
+4 meters per pixel
+16264x16874
+65056m x 67496m
