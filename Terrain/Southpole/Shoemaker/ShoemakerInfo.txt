@@ -1,0 +1,40 @@
+Screen Pixels: 939 x 939
+Screen pixel size: 21.03 m
+Display Datum: WORLD GEODETIC SYSTEM 1984
+Map Projection parameters Polar Stereographic (ellipse)  Datum=WGS84
+LatCent: -90 LongCent: -117  false_east (m): 0  false_north (m):0
+k0: 1
+Phi2: 0.144318
+23.5% of points on map
+--------------------------------
+DEM=Shoemaker_final_adj_5mpp_surf
+DEM size: 4000x4000
+ z range: -1075.2 to 713.6  m
+  4-byte real
+  Horiz: 5x5 m
+ DEM datum: Defined
+
+--------------------------------
+Map Window Geographic corner coordinates   360.00000000x45.00000000
+   NW: S45° W180°----------NE: S45° E180°
+   SW: S90° W180°----------SE: S90° E180°
+--------------------------------
+Map Window Projected coordinates:    19995.0x19995.0
+             49000.0
+     66000.0         85995.0
+             29005.0
+--------------------------------
+Map Window UTM coordinates, zone 11:    409488710.7x315963996.4
+          -7315531.3
+-404312549.9       5176160.8
+        -323279527.8
+--------------------------------
+Map Window Data Grid coordinates:    3999x3999
+          3999
+       0      3999
+             0
+--------------------------------
+Primary:   Polar Stereographic (ellipse)  Datum=WGS84
+------------------------------------
+DEM bounding box geographic: x=-50.724034 to -56.674515  y=-89.363158 to -89.125687
+DEM bounding box Proj: x=66000 to 85995  y=29005 to 49000
