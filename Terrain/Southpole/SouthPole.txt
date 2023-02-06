@@ -18,3 +18,4 @@ Longitude Domain 0 to 360
 4 meters per pixel
 16264x16874
 65056m x 67496m
+65.056km x 67.496km
